@@ -65,7 +65,6 @@ def fixOrder(rules, arr):
 
 print(fixOrder(rules, [97,13,75,29,47]))
 
-
 #Solution
 with open("input.txt", "r") as file:
     input = file.read()

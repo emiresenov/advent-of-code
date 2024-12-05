@@ -1,5 +1,3 @@
-from part1 import correctOrder
-
 input = """
 47|53
 97|13
